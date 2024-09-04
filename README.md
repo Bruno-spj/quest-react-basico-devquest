@@ -17,14 +17,14 @@ textColor (string): A cor que será aplicada ao texto (pode ser uma palavra como
 
 ## AlertButton:
 
-Descrição: Este componente recebe uma prop label. Quando o botão é clicado, um alerta é exibido mostrando a mensagem "A label desse botão é [label]".
+2. Descrição: Este componente recebe uma prop label. Quando o botão é clicado, um alerta é exibido mostrando a mensagem "A label desse botão é [label]".
 Props:
 label (string): O texto que será exibido no botão e na mensagem de alerta.
 
 ## Como Usar:
 Clone este repositório.
 Instale as dependências com npm install.
-Execute o projeto com npm start.
+Execute o projeto com npm run dev.
 Acesse http://localhost:3000 para visualizar o resultado.
 
 ## Tecnologias Utilizadas:
