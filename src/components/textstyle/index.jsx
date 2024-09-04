@@ -1,5 +1,5 @@
 /* eslint-disable react/prop-types */
-import './Styledtext.css'
+import './index.css'
 export const StyledText = ({textColor, textUppercase}) => {
   return (
     <>

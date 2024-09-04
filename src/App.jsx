@@ -1,6 +1,6 @@
 import './App.css'
-import Button from './components/button/Button'
-import StyledText from './components/textstyle/Styledtext'
+import Button from './components/AlertButton/index'
+import StyledText from './components/textstyle/index'
 
 function App() {
   
